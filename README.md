@@ -90,7 +90,7 @@ Cape Peninsula University of Technology, Cape Town
 
 # 📄 CV Download
 
-[Download My CV](KeanoCV.pdf)
+[Download My CV](Keano cv.docx)
 
 ---
 
